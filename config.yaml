@@ -1,0 +1,61 @@
+projectName: Emerging Technologies in Threat Intelligence
+jsonFilePath: ./input.json
+baseUrl: https://sift.com
+portalHeading: Discover Emerging Technologies in Threat Intelligence
+portalDescription: >-
+  Explore how Sift's AI-powered platform enhances fraud decisioning and empowers
+  businesses.
+portalTitle: Emerging Technologies in Threat Intelligence
+searchPlaceholder: Search for insights
+useAlphabetsCategory: true
+homeLink: https://sift.com/
+logoLink: https://sift.com/
+ctaText: See Sift in Action
+aboutLink: https://sift.com/company
+productsLink: https://sift.com/platform
+logoImgUrl: https://sift.com/logo.png
+ctaLink: https://sift.com/demo
+copyrightText: © 2024 Sift Science, Inc. All rights reserved.
+faviconUrl: https://sift.com/favicon.ico
+googleTagManagerId: GTM-PF53KPG
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: YouTube
+    url: https://www.youtube.com/@getsift
+  - platform: LinkedIn
+    url: https://www.linkedin.com/company/getsift/
+  - platform: Twitter
+    url: https://twitter.com/GetSift
+  - platform: Facebook
+    url: https://www.facebook.com/GetSift/
+  - platform: Instagram
+    url: https://www.instagram.com/get_sift/
+theme:
+  primaryColor: '#F5F3F5'
+  secondaryColor: '#FF3B84'
+  backgroundColor: '#000000'
+  textColor: '#FFFFFF'
+  accentColor: '#FFA500'
+fonts:
+  - family: Inter
+    weights:
+      - 400
+      - 600
+      - 800
+  - family: Titillium Web
+    weights:
+      - 300
+      - 400
+      - 700
